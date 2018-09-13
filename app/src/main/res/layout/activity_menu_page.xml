@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.vimal.anytimecook.com.aocc.vimal.anytimecook.MenuPage">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="15sp"
+        android:layout_marginRight="15sp"
+        android:layout_marginTop="30sp"
+        android:alpha="0.9"
+        android:orientation="vertical">
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:orientation="vertical">
+
+                <ImageButton
+                    android:id="@+id/rice"
+                    android:layout_width="wrap_content"
+                    android:layout_height="302dp"
+                    android:onClick="clicked"
+                    app:srcCompat="@mipmap/rice" />
+
+                <ImageButton
+                    android:id="@+id/dal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="277dp"
+                    android:onClick="clicked"
+                    app:srcCompat="@mipmap/dal" />
+
+                <ImageButton
+                    android:id="@+id/sabji"
+                    android:layout_width="wrap_content"
+                    android:layout_height="280dp"
+                    android:onClick="clicked"
+                    app:srcCompat="@mipmap/sabji" />
+
+                <ImageButton
+                    android:id="@+id/chatni"
+                    android:layout_width="wrap_content"
+                    android:layout_height="268dp"
+                    android:onClick="clicked"
+                    app:srcCompat="@mipmap/chatni" />
+
+
+            </LinearLayout>
+        </ScrollView>
+
+
+    </LinearLayout>
+
+</LinearLayout>

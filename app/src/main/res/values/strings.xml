@@ -1,0 +1,478 @@
+<resources>
+    <string name="app_name">Any Time Cook</string>
+    <string name="createbtn" />
+    <string name="signinbtn" />
+    <!-- ************************************************************************************************************************************************************************ -->
+
+    <!--DINNER CONTENTS-->
+
+    <!--CONTENT FOR RICE RECIPE-->
+    <string name="rice_need">
+
+       \n<b> 1. Measuring cup</b>\n
+       <b>2. Wooden spoon</b>\n
+       <b>3. Saucepan</b>\n
+        <b>4. Water</b>\n
+       <b> 5. Rice</b>\n
+       <b> 6. Salt</b>\n
+        <b>7. Fork</b>\n
+
+    </string>
+
+    <string name="rice_follow">
+        <b>1. Boil water and add salt</b>\n\n
+        <b>Pour water (for every cup of rice, use 1¾ cups of water)   into a large saucepan with a tight-fitting lid. Bring to a boil. Mix 1 teaspoon salt into the water.</b> \n\n\n
+
+        <b>2. Pour in rice</b>\n\n
+        <b>Add it to the boiling water.</b>\n\n\n
+
+        <b>3. Stir once, or just enough to separate the rice</b>\n\n
+        <b>Use a wooden spoon to separate any clumps. Don’t over-stir: That can cause the rice to become sticky.</b>\n\n\n
+
+        <b>4. Cover the pot and simmer</b>\n\n
+        <b>Be sure the lid fits tightly on the pot. Turn down the heat to its lowest setting. Let rice simmer for about 18 minutes, then remove from heat and allow the rice to steam in the pot for another 5 minutes.</b>\n\n\n
+        <b>5. Fluff rice with a fork</b>\n\n
+        <b>Just before serving, gently fluff the rice with a fork to separate the grains.</b>\n\n\n
+
+    </string>
+
+
+    <!-- CONTENT FOR DAL -->
+    <string name="dal_need">
+       \n <b>1. 1/2 cup Masoor Dal </b>\n
+        <b>2. 1 Tomato (Tamatar)</b>\n
+        <b>3.   1/2 tsp Jeera </b>\n
+        <b>4. 1/4 tsp Turmeric (Haldi) Powder</b>\n
+        <b>5. 2 Green chilli </b>\n
+        <b>6. 3 tsp Oil </b>\n
+        <b>7.  level tsp Salt (Namak) </b>\n
+        <b>8. 3 Garlic (Lasun) Cloves</b> \n
+    </string>
+    <string name="dal_follow">
+        \n<b>Boil the dal with salt, turmeric powder and slit green chillies.</b>\n\n
+         <b>In another pan, heat oil, add the jeera, tomatoes and garlic pods, sauté on a high flame till the tomatoes are soft and pulpy.</b>\n\n
+        <b>Add the boiled dal into this with little water, boil well for 15 minutes to incorporate the masala into the dal, garnish with coriander.</b>\n\n
+    </string>
+
+
+    <!-- SABJI CONTENT -->
+
+    <string name="sabji_need">
+
+        \n<b>1. 4-5 medium size potatoes, diced</b>
+       <b> 2. 1 tbsp oil</b>\n
+        <b>3. 3 medium size onions, finely sliced</b>\n
+        <b>4. 3-4 slit green chillies</b>\n
+        <b>5. salt - to taste</b>\n
+        <b>6. 1 tsp red chilli powder</b>\n
+        <b>7. ¼ tsp turmeric powder</b>\n
+        <b>8. 1 tsp ginger garlic paste</b>\n
+        <b>9. 1 tbsp freshly chopped coriander leaves</b>\n
+        <b>10. 1 tbsp fresh fenugreek leaves(methi leaves)</b>\n
+        
+    </string>
+    <string name="sabji_follow">
+
+
+        <b>1. Firstly, in a pressure cooker or cooking vessel, add oil and heat it.</b>\n\n
+        <b>2. Add sliced onions and slit green chillies into it and saute for few minutes, cook until onions get soft(not brown).</b>\n\n
+        <b>3. Add salt, red chilli powder, turmeric powder, ginger garlic paste, mix and saute for few seconds.</b>\n\n
+        <b>4. Add diced potatoes, mix and cook for about two minutes.</b>\n\n
+        <b>5. Add about a cup of water, add chopped coriander leaves and methi leaves into it and mix well.</b>\n\n
+        <b>6. Cook until aloo is cooked well or pressure cook for about 3 whistles.</b>\n\n
+        <b>7. Reduce the steam and check if aloo is done.</b>\n\n
+        <b>8. If there is any water content remaining, cook for about a minute by keeping the lid uncovered.</b>\n\n
+        <b>9. Serve aloo sabzi with chapati!!!</b>\n\n
+        
+    </string>
+
+    <!--CHATNI CONTENT -->
+
+    <string name="chatni_need">
+
+      \n <b>1. 1.5 Cup Mint Leaves (Pudina)</b>\n
+        <b>2. 1 Cup Coriander Leaves (Dhania)</b>\n
+        <b>3. 1/2 Cup Plain Curd / Yogurt</b>\n
+        <b>4. 12 Green Chillies</b>\n
+        <b>5. 3-4 Cloves of Garlic</b>\n
+        <b>6. 1 Inch Piece of Ginger</b>\n
+        <b>7. 2 Teaspoons Lemon Juice</b>\n
+        <b>8. 1 Teaspoon Roasted Cumin Powder   (Bhuna Jeera)</b>\n
+        <b>9. 1 Teaspoon Amchur (Dry Mango Powder)</b>\n
+        <b>10. 1 Teaspoon Chaat Masala</b>\n
+        <b>11. 1 Teaspoon Rock Salt (Kala Namak)</b>\n
+
+
+
+
+    </string>
+
+    <string name="chatni_follow">
+
+        <b>1. Combine Mint Leaves, Coriander Leaves, Ginger, Garlic and Green Chillies and grind them to a smooth paste. Add very little water if required.</b>\n\n
+        <b>2. Beat some yogurt in a bowl and add Lemon Juice, roasted Cumin Powder, Rock Salt, Dry mango Powder (Amchur) and Chaat Masala.</b>\n\n
+        <b>3. Now add the paste of mint and coriander leaves and beat to mix everything to a smooth paste.</b>\n\n
+        <b>4. Mint Chutney is ready. Store it in the refrigerator in a clean airtight container for upto a week.</b>\n\n
+
+
+
+    </string>
+
+    <!-- ************************************************************************************************************************************************************************ -->
+    <!-- BREAKFAST CONTENTS -->
+
+    <!-- ALOO PATANTHA -->
+
+    <string name="aloo_parantha_need">
+            \n<b> 1. 2 cup wheat flour / atta</b>\n
+            <b>2. 2 tsp oil</b>\n
+            <b>3. ½ tsp salt</b>\n
+            <b>4. 1 cup water to knead</b>\n
+            <b>5. 2 potato / aloo boiled and mashed</b>\n
+            <b>6. 1 chilli finely chopped</b>\n
+            <b>7. ½ tsp coriander seeds crushed</b>\n
+            <b> 8. ¼ tsp kashmiri red chilli powder</b>\n
+            <b>9. ¼ tsp turmeric</b>\n
+            <b>10. ¼ tsp cumin powder / jeera powder</b>\n
+            <b>11. ½ tsp aamchur / dry mango powder</b>\n
+            <b>12. ¼ tsp ajwain / carom seeds</b>\n
+            <b>13. ½ tsp ginger paste</b>\n
+            <b>14. 2 tbsp coriander finely chopped</b>\n
+            <b>18. ¼ tsp sal</b>\n
+
+    </string>
+
+    <string name="aloo_parantha_follow">
+
+        \n<b>1. firstly, knead wheat dough by taking 2 cup wheat flour, 2 tsp oil, ½ tsp salt and 1 cup water.</b>\n\n
+        <b>2. further, in a large mixing bowl take 2 boiled and mashed potato.</b>\n\n
+        <b>3. add 1 chilli, ½ tsp crushed coriander seeds, ¼ tsp chilli powder, ¼ tsp turmeric, ¼ tsp cumin powder, ½ tsp aamchur, ¼ tsp ajwain, ½ tsp ginger paste, 2 tbsp coriander and ¼ tsp salt.</b>\n\n
+        <b>4. mix well making sure all the spices are combined well.</b>\n\n
+        <b>5. pinch a ball sized wheat dough and dust with some wheat flour.</b>\n\n
+        <b>6. further, roll it in a circle of about 5 to 5.5 inches in diameter.</b>\n\n
+        <b>7. stuff the stuffing and roll slightly thick.</b>\n\n
+        <b>8. cook the paratha to golden brown adding oil/ghee.</b>\n\n
+        <b>9. finally, serve hot aloo paratha with butter, sauce, raita or pickle.</b>\n\n
+
+    </string>
+
+    <!-- CHEESE OMLET -->
+
+    <string name="cheese_omlet_need">
+
+            \n<b> 1. 3 tblsp Milk</b>\n
+            <b>2. 1/2 cup grated Cheese</b>\n
+            <b>3. 2 chopped Green Chilli (Hari mirch)</b>\n
+            <b>4. Salt to taste</b>\n
+            <b> 5. 1 tsp White Pepper</b>\n
+            <b>6. A pinch of Mustard Powder</b>\n
+            <b>7. 1 tblsp Butter</b>\n
+            <b>8. 2 Eggs</b>\n
+        </string>
+
+    <string name="cheese_omlet_follow">
+
+           \n\n<b> 1. Beat the eggs thoroughly along with the salt, mustard powder, green chillies and the pepper powder.</b>\n\n
+            <b> 2. Melt the butter in a non stick pan over a low flame.</b>\n\n
+            <b> 3. Add the beaten eggs . spread evenly around the pan and sprinkle the grated cheese on top.</b>\n\n
+            <b> 4. Cook on one side till the egg is cooked.fold the egg into half and remove from the flame.serve hot.</b>\n\n
+        </string>
+
+    <!-- UPMA -->
+    <string name="upma_need">
+
+        \n<b> 1. 1 cup Rava / Sooji (Semolina) </b>\n
+        <b>2. 25 gms fried Cashew Nuts (optional)</b>\n
+        <b>3. 1 inch Ginger chopped </b>\n
+        <b>4. 1 chopped Onion</b>\n
+        <b>5. 3 Green Chillies slit sideways</b>\n
+        <b>6. 1 Potato chopped</b>\n
+        <b>7. 1 Capsicum chopped</b>\n
+        <b>8. 1 Carrot chopped</b>\n
+        <b>9. 1/4 cup Green Peas frozen or fresh </b>\n
+        <b>10. 1 tsp Mustard Seeds</b>\n
+        <b>11. 1 tsp Urad Daal</b>\n
+        <b>12. 1 tsp Channa Daal</b>\n
+        <b>13. Salt to taste</b>\n
+        <b>14. 1/2 tsp Turmeric Powder</b>\n
+        <b>15. Chili powder to taste (optional)</b>\n
+        <b>16. 2 tblsp Oil</b>\n
+       <b>17. Few curry leaves</b>\n
+        <b>18. Finely chopped corianderleaves</b>\n
+        <b>19. 1 tblsp Ghee </b>\n
+        <b>20. Lemon juice to taste</b>\n
+    </string>
+
+    <string name="upma_follow">
+        \n<b>1. Sift rava through a muslin / cheese cloth or very fine sieve.</b>\n\n
+       <b> 2. Heat 1tbsp. pure ghee / unsalted butter and fry rava ,on a moderate heat, stiring constantly to light brown color and set aside.</b>\n\n
+        <b>3. Now heat 2 tbsp oil in a pan and add mustard seeds and allow them to splatter.</b>\n\n
+        <b>4. Add the daals : channa and urad and curry leaves to it and fry till they turn red.</b>\n\n
+        <b>5. Add onion, ginger and green chilies. Sauté for 2-3 minutes.</b>\n\n
+        <b>6. Add all the vegetables, turmeric and chili powder, and salt to taste.</b>\n\n
+        <b>7. Now add 3 cups of water and cover the pan and allow it simmer on low heat until the vegetables are done.</b>\n\n
+        <b>8. Add the fried rava to it stirring constantly till it becomes little thick.</b>\n\n
+        <b>9. Take off from the heat and lemon juice if desired.</b>\n\n
+        <b>10. Serve hot garnished with cashews and coriander.</b>\n\n
+
+    </string>
+
+    <!-- PANEER SANDWICH -->
+    <string name="paneer_sandwich_need">
+
+        \n<b> 1. 100 gms Panch Phoran </b>\n
+        <b>2. 2 slices Bread </b>\n
+        <b>3. As per requirement Butter </b>\n
+        <b>4. A pinch of dried Mango (Aam) Powder </b>\n
+        <b>5. A pinch of Red chilli (Lal Mirchi) Powder </b>\n
+        <b>6. A pinch of Black Salt (Kala Namak) </b>\n
+
+
+    </string>
+
+    <string name="paneer_sandwich_follow">
+
+       \n<b>1. Melt some butter in a pan, sauté the paneer slices with mango powder, red chilli powder and black salt for a few minutes.</b>\n\n
+        <b>2. Stuff the sauteed paneer in between the bread slices and toast.</b>\n\n
+
+    </string>
+
+
+    <!-- ************************************************************************************************************************************************************************ -->
+    <!-- LUNCH CONTENT -->
+
+    <!--CURD_RICE CONTENT-->
+    <string name="curd_rice_need">
+        \n<b> 1.  1-Cup Boiled Rice</b>\n
+        <b>2. 2-cups of plain yogurt (Curd)</b>\n
+        <B>3. 2-Tbsp Oil</B>\n
+        <B>4. 1/4-cup milk</B>\n
+        <b>5. Finely chopped coriander leaves</b>\n
+        <b>6. 1-2 green chilies</b>\n
+        <B>7. 1 tsp. chana daal</B>\n
+        <b>8. 1 tsp. urad daal</b>\n
+        <b>9. 1 tsp. mustard seeds</b>\n
+        <b>10. 1and1/2-tsp. finely chopped ginger</b>\n
+        <b>11. 2 Tbsp desiccated coconut</b>\n
+        <b>12. 1/2-tsp salt</b>\n
+    </string>
+
+    <string name="curd_rice_follow">
+        \n<b> 1. In a saucepan heat 2 tablespoonful of oil.</b>\n\n
+        <b>2. Add mustard seeds to the oil.</b>\n\n
+        <b>3. When the mustard seeds start popping add chana and urad daal.</b>\n\n
+        <b>4. After a minute, add in the ginger, coriander and green chilies.</b>\n\n
+        <b>5. Sauté them for a minute.</b>\n\n
+        <b>6. Take the pan off the gas. Add in the rice.</b>\n\n
+        <b>7. Mix the salt and desiccated coconut.</b>\n\n
+        <b>8. Just before serving, mix all the ingredients with yogurt (curd) and milk. Curd rice is ready to be served.</b>\n\n
+    </string>
+
+    <!-- DHOKLA CPONTENT -->
+    <string name="dhokla_need">
+       \n<b> 1. Gram flour (besan) sieved 2 cups</b>\n
+        <b>2. Yogurt beaten 1 cup</b>\n
+        <b>3. Salt to taste</b>\n
+        <b>4. Turmeric powder 1/2 teaspoon</b>\n
+        <b>5. Green chilli-ginger paste 1 teaspoon</b>\n
+        <b>6. Oil 2 tablespoons</b>\n
+        <b>7. Lemon juice 1 tablespoon</b>\n
+        <b>8. Soda bicarbonate 1 teaspoon</b>\n
+        <b>9. Mustard seeds 1 teaspoon</b>\n
+        <b>10. Fresh coriander leaves chopped 2 tablespoons</b>\n
+        <b>11. Coconut scraped 1/2 cup</b>\n
+    </string>
+
+    <string name="dhokla_follow">
+        \n<b>1. Take gram flour in a bowl. Add yogurt and approximately one cup of warm water and mix. Avoid lumps. Add salt and mix again.</b>\n\n
+        <b>2. Leave it aside to ferment for three to four hours. When gram flour mixture has fermented, add turmeric powder and green chilli-ginger paste. Mix. Heat the steamer. Grease a thali.</b>\n\n
+        <b>3. In a small bowl take lemon juice, soda bicarbonate, one teaspoon of oil and mix. Add it to the batter and whisk briskly. Pour batter into the greased thali and place it in the steamer.</b>\n\n
+        <b>4. Cover with the lid and steam for ten minutes. When a little cool, cut into squares and keep in a serving bowl/plate.</b>\n\n
+        <b>5. Heat remaining oil in a small pan. Add mustard seeds. When the seeds begin to crackle, remove and pour over the dhoklas.</b>\n\n
+        <b>6. Serve, garnished with chopped coriander leaves and scraped coconut.</b>\n\n
+    </string>
+
+    <!-- LEMON RICE CONTENT -->
+    <string name="lemon_rice_need">
+
+       \n <b> 1. 2-cups boiled Rice</b>\n
+        <b>2. 1/3rd cup Lemon Rice</b>\n
+        <b>3. 6-Tbsp Oil</b>\n
+        <b>4. 1/2 tsp Black Mustard seeds</b>\n
+        <b>5. Few curry leaves</b>\n
+        <b>6. 3-4 green chilies</b>\n
+        <b>7. Salt to taste</b>\n
+        <b>8. 1/4th tsp. turmeric powder</b>\n
+        <b>9. 1/4th cup peanuts</b>\n
+
+    </string>
+
+    <string name="lemon_rice_follow">
+
+       \n <b> 1. Heat oil in a pan and add mustard seeds, allow to splutter.</b>\n\n
+        <b>2. Add turmeric powder and peanuts, fry till brown.</b>\n\n
+        <b>3. Now add green chilies, curry leaves, salt and fry for 2 minutes.</b>\n\n
+        <b>4. Take it off from the flame and add lemon juice and mix well.</b>\n\n
+       <b>5. Now add this to the boiled rice and mix well.Lemon rice is ready to be served.</b>\n\n
+
+    </string>
+
+    <!-- SAMBHAR RICE CONTENT -->
+    <string name="sambhar_rice_need">
+
+        \n<b> 1. 1-cup rice</b>\n
+        <b>2. 1-cup toor dhal (soak the dhal for 3-4 hours in hot water)</b>\n
+        <b>3. 1/4-tsp turmeric powder</b>\n
+        <b>4. 1/2-tsp. coriander powder</b>\n
+        <b>5. 1/2-tsp chilly powder</b>\n
+        <b>6. 2-tsp sambar powder</b>\n
+        <b>7. salt to taste</b>\n
+        <b>8. 1-tsp tamarind paste</b>\n
+        <b>9. ghee for frying</b>\n
+        <b>10. 1/2-tsp mustard seeds</b>\n
+        <b>11. a few curry leaves</b>\n
+        <b>12. a pinch of asafoetida</b>\n
+        <b>13. 2-cashews (optional)</b>\n
+        <b>14. few chopped shallots (sambar onions)</b>\n
+        <b>15. a few chopped corriander leaves</b>\n
+
+    </string>
+
+    <string name="sambhar_rice_follow">
+
+       \n <b>1. Wash rice and dhal, drain away all the water, to the rice/dhal mixture add the turmeric powder, corriander powder, chilly powder, sambar powder and salt.</b>\n\n
+        <b>2. Add 4 cups of water to tamrind paste mix and pour into the dhal/rice mixture.</b>\n\n
+        <b>3. Cook in pressure cooker for 10 to 12 minutes.</b>\n\n
+        <b>4. Add ghee in the pan and fry the shallots (sambar onions), as it's getting brown add the mustard seeds, cashewnuts, curry leaves.</b>\n\n
+        <b>5. Add this seasoning to the Sambar Bath.</b>\n\n
+        <b>6. Sprinkle with chopped Corriander Leaves.</b>\n\n
+        <b>7. Serve hot.</b>\n\n
+
+    </string>
+    <string name="title_activity_bread_pakoda">bread_pakoda</string>
+
+    <!-- ************************************************************************************************************************************************************************ -->
+    <!-- SNACKS CONTENT -->
+
+    <!-- CHEESE PAKODA -->
+    <string name="cheese_pakoda_need">
+       \n <b>1. 2 cheese cubes</b>\n
+        <b>2. 1 onion (pyaj)</b>\n
+        <b>3. 2 green chilly (hari mirch)</b>\n
+        <b>4. 2 bread slice</b>\n
+        <b>5. 7-8 curry leaves (meethi neem)</b>\n
+        <b>6. 1 cup gram flour (besan)</b>\n
+        <b>7. 1 tsp corn flour</b>\n
+        <b>8. a pinch baking powder</b>\n
+       <b> 9. a pinch citric acid</b>\n
+        <b>10. 1/2 tsp salt (namak)</b>\n
+        <b>11. 1/4 tsp red chilly powder (lal mirch)</b>\n
+        <b>12. oil for frying</b>\n
+    </string>
+    <string name="cheese_pakoda_follow">
+        \n<b> 1. Finely chop hari mirch and pyaj.</b>\n\n
+        <b>2. Cut cheese cubes and bread into cubes.</b>\n\n
+        <b>3. Mix all the ingredients in besan and make a thick batter using water.</b>\n\n
+        <b>4. Heat oil in a pan and deep fry all pakoras until they turn brown.</b>\n\n
+        <b>5. Serve them hot with sauce or chutney.</b>\n\n
+
+    </string>
+
+
+    <!-- MACRONI -->
+
+    <string name="macroni_need">
+
+        \n<b> 1. 100 gms Macroni</b>\n
+        <b>2. 1 chopped Onion (Pyaj)</b>\n
+        <b>3. 1 each yellow, red, green Capsicum (Shimla Mirch)</b>\n
+        <b>4. 2 tblsp Ketuchup 1/2 tsp Red Chilly</b>\n
+        <b>5. Little White Pepper</b>\n
+       <b>6. 1 tblsp Butter</b>\n
+        <b>7. Cheese for garnish</b>\n
+    </string>
+
+    <string name="macroni_follow">
+        \n<b> 1. Chop the vegetables.</b>\n\n
+        <b>2. Heat oil and add onions and capsicums.</b>\n\n
+        <b>3. When they tender add sauce, chilly powder, white pepper and salt.</b>\n\n
+        <b>4. Mix well and then add macroni.</b>\n\n
+        <b>5. When fully mixed garnish with grated cheese.</b>\n\n
+    </string>
+
+
+    <!-- MAGGI -->
+    <string name="maggi_need">
+
+        \n<b> 1. 1-packet Noodles</b>\n
+        <B>2. 2-Onion (Pyaj)</B>\n
+        <b>3. 3-4 chopped Tomato (Tamatar)</b>\n
+        <b>4. 4-tsp chopped Coriander Leaves (Dhania Patta)</b>\n
+        <b>5. 1-chopped Ginger (Adrak)</b>\n
+        <b>6. 3 - 4 flakes chopped Garlic (Lasun)</b>\n
+        <b>7. 4 5 chopped Green chilli (Hari mirch)</b>\n
+        <b>8. 1/2 tsp Red chili pepper (Lal Mirchi)</b>\n
+        <b>9. 1/2 tsp Garam Masala Powder</b>\n
+        <b>10. 1-tblsp Oil</b>\n
+
+    </string>
+
+    <string name="maggi_follow">
+        \n<b> 1. Boil the noodles as directed on the pack.</b>\n\n
+        <b>2. Drain them in a strainer and wash with cold water. Keep aside.</b>\n\n
+        <b>3. Heat oil in a nonstick pan and fry garlic, ginger, green chillies and onions until they are golden.</b>\n\n
+        <b>4. Add tomatoes along with salt and masala.</b>\n\n
+        <b>5. Cook till tomatoes are tender.</b>\n\n
+        <b>6. Add the noodles and stir well.</b>\n\n
+        <b>7. Cook for a while and remove the fire and serve immediately.</b>\n\n
+    </string>
+
+
+    <!-- BREAD PAKODA -->
+
+    <string name="bread_pakoda_need">
+
+        \n<b> 1. 4-5 Bread Slices</b>\n
+        <b>2. 1cup Gram Flour (Besan)</b>\n
+        <b>3. 1/4th tsp turmeric powder</b>\n
+        <b>4. Salt to taste</b>\n
+        <b>5. 1/2 tsp Ajwain</b>\n
+        <b>6. Red chili powder to taste</b>\n
+        <b>7. 1/4th tsp Garam Masala powder</b>\n
+        <b>8. Water for batter</b>\n
+        <b>9. Oil for frying</b>\n
+
+    </string>
+    <string name="bread_pakoda_follow">
+
+       \n <b> 1. Cut Bread slices into desired shapes (like triangle, rectangle etc.)</b>\n\n
+        <b>2. In a bowl add gram flour salt, chili powder, garam masala, ajwain and mix it.</b>\n\n
+        <b>3. Now by pouring little water at a time make a smooth batter (neither too thick nor too lose)</b>\n\n
+        <b>4. Heat oil in a kadhai.</b>\n\n
+        <b>5. Dip bread piece in the batter and fry till crisp on medium flame.</b>\n\n
+        <b>6. Serve bread pakora hot with green chutney and tomato sauce.</b>\n\n
+
+    </string>
+
+
+    <!-- ************************************************************************************************************************************************************************ -->
+
+    <!-- ABOUT US CONTENT -->
+    <string name="about_us">
+        <b> Home Menu is a recipe app which will guide you how to cook a food based on time like breakfast,lunch,snacks and dinner.
+            it is developed by a AOCC group </b>\n
+        
+    </string>
+
+    <!-- ************************************************************************************************************************************************************************ -->
+    <!--HINT SIZE-->
+    <string name="email_hint">email</string>
+    <string name="password_hint">password</string>
+    <string name="location">BTM Layout Banglore 560076</string>
+    <string name="phone_number">(+91) 9916334582</string>
+    <string name="my_email">vimalrijal00@gmail.com</string>
+    <string name="my_jio_number">(+91) 6362160992</string>
+    <string name="application_name">Home Menu</string>
+    <string name="reset_password_text">Before reset the password make sure you have the existance email, because we will send the reset password in that email id</string>
+    <string name="footer_AOCC">© Developed by AOCC</string>
+</resources>

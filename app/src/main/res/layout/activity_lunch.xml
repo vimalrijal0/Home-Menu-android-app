@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.vimal.anytimecook.com.aocc.vimal.anytimecook.lunch">
+
+   <ScrollView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:orientation="vertical">
+
+           <ImageButton
+               android:id="@+id/curd_rice"
+               android:layout_width="match_parent"
+               android:layout_height="338dp"
+               app:srcCompat="@mipmap/curd_rice"
+               android:onClick="get_lunch"/>
+
+           <ImageButton
+               android:id="@+id/dhokla"
+               android:layout_width="match_parent"
+               android:layout_height="279dp"
+               app:srcCompat="@mipmap/dhokla"
+               android:onClick="get_lunch"/>
+
+           <ImageButton
+               android:id="@+id/lemon_rice"
+               android:layout_width="match_parent"
+               android:layout_height="335dp"
+               app:srcCompat="@mipmap/lemon_rice"
+               android:onClick="get_lunch"/>
+
+           <ImageButton
+               android:id="@+id/sambhar_rice"
+               android:layout_width="match_parent"
+               android:layout_height="270dp"
+               app:srcCompat="@mipmap/sambhar_rice"
+               android:onClick="get_lunch"/>
+       </LinearLayout>
+   </ScrollView>
+</LinearLayout>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.vimal.anytimecook.com.aocc.vimal.anytimecook.contact_us"
+    android:background="@color/white">
+
+
+    <ImageButton
+        android:id="@+id/aocc"
+        android:layout_width="match_parent"
+        android:layout_height="164dp"
+        app:srcCompat="@mipmap/aocc"
+        android:background="@color/white"/>
+
+
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/about_us"
+        android:layout_marginRight="10sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginTop="30sp"/>
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contact Us"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="40sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="5dp"
+        android:drawableLeft="@drawable/location"
+        android:drawablePadding="25dp"
+        android:gravity="center"
+        android:paddingLeft="110dp"
+        android:text="@string/location"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="10sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="5dp"
+        android:drawableLeft="@drawable/phone"
+        android:drawablePadding="25dp"
+        android:gravity="center"
+        android:paddingLeft="110dp"
+        android:text="@string/my_jio_number"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="10sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="5dp"
+        android:drawableLeft="@drawable/whatsapp"
+        android:drawablePadding="25dp"
+        android:gravity="center"
+        android:paddingLeft="110dp"
+        android:text="@string/phone_number"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="10sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="5dp"
+        android:drawableLeft="@drawable/mail"
+        android:drawablePadding="25dp"
+        android:gravity="center"
+        android:paddingLeft="110dp"
+        android:text="@string/my_email"
+        android:textStyle="bold"/>
+
+
+
+</LinearLayout>

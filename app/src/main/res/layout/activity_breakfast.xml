@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.vimal.anytimecook.com.aocc.vimal.anytimecook.Breakfast">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/aloo_parantha"
+                android:layout_width="match_parent"
+                android:layout_height="275dp"
+                app:srcCompat="@mipmap/aloo_parantha"
+                android:onClick="breakfast_function"/>
+
+            <ImageButton
+                android:id="@+id/cheese_omlet"
+                android:layout_width="match_parent"
+                android:layout_height="277dp"
+                android:onClick="breakfast_function"
+                app:srcCompat="@mipmap/cheese_omlet" />
+
+            <ImageButton
+                android:id="@+id/upma"
+                android:layout_width="match_parent"
+                android:layout_height="297dp"
+                android:onClick="breakfast_function"
+                app:srcCompat="@mipmap/upma" />
+
+            <ImageButton
+                android:id="@+id/paneer_sandwich"
+                android:layout_width="match_parent"
+                android:layout_height="295dp"
+                android:onClick="breakfast_function"
+                app:srcCompat="@mipmap/paneer_sandwich" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

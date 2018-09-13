@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.AOCChomemenu.vimal.anytimecook">
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name="com.AOCChomemenu.vimal.anytimecook.Login"
+            android:screenOrientation="portrait"/>
+
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.SignIn"
+            android:label="Sign In"
+
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.createAccount"
+            android:label="Create Account"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.MenuPage"
+            android:label="Dinner"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.HomeMenu"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.HomeMenu"
+            android:label="Home Menu"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.rice"
+            android:label="rice"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.MenuPage"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.dal"
+            android:label="dal"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.MenuPage"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.sabji"
+            android:label="sabji"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.MenuPage"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.chatni"
+            android:label="chatni"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.MenuPage"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.Breakfast"
+            android:label="Breakfast"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.HomeMenu"/>
+
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.aloo_parantha"
+            android:label="aloo parantha"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.Breakfast"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.cheese_omlet"
+            android:label="cheese omlet"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.Breakfast"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.upma"
+            android:label="upma"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.Breakfast"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.paneer_sandwich"
+            android:label="paneer sandwich"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.Breakfast"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.lunch"
+            android:label="Lunch"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.HomeMenu"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.curd_rice"
+            android:label="curd rice"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.lunch"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.dhokla"
+            android:label="dhokla"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.lunch"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.lemon_rice"
+            android:label="lemon rice"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.lunch"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.sambhar_rice"
+            android:label="sambhar rice"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.lunch"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.snacks"
+            android:label="Snacks"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.HomeMenu"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.cheese_pakoda"
+            android:label="cheese pakoda"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.snacks"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.macroni"
+            android:label="macroni"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.snacks"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.maggi"
+            android:label="maggi"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.snacks"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.bread_pakoda"
+            android:label="bread pakoda"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.snacks"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.ABOUT_US"
+            android:label="About Us"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.HomeMenu"/>
+
+        <activity
+            android:name="com.AOCChomemenu.vimal.anytimecook.contact_us"
+            android:label="Contact Us"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.HomeMenu"/>
+
+        <activity android:name="com.AOCChomemenu.vimal.anytimecook.Learn_app"
+            android:label="Learn app"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.AOCChomemenu.vimal.anytimecook.HomeMenu"/>
+
+    </application>
+
+</manifest>
